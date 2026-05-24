@@ -1,4 +1,4 @@
-# VERA — Vital Early Risk Advisor
+# VERA Vital Early Risk Advisor
 
 A proactive cancer risk companion powered by 4 collaborative AI agents.
 Built for the AI Agent Olympics, Milan AI Week 2026.
